@@ -43,25 +43,25 @@ let wibh = moment.tz('Asia/Karachi').format('HH')
 // if you don't have it, type "-" or leave it alone so that there are credits :v
 global.sig = 'https://instagram.com/itx_ahmad.ali' //Link Instagrammu
 global.sgh = 'https://github.com/xIKRATOSx' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DxIb5oWzpg24mmg9D9zw5Y'
+global.sgc = 'https://chat.whatsapp.com/L2KlicS5u1X30Y5VexgkPF'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '94761091578' //Nomor Danamu
+global.ppulsa = '94761091578' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '94764497078' //Nomor Bot
-global.nomorown = '94764497078' //Nomor Owner
-global.namebot = 'WA-MD-v1' //Nama Bot
-global.nameown = 'sandaru' // Nama Owner
+global.nomorbot = '+1 (518) 712-4732' //Nomor Bot
+global.nomorown = '+1 (518) 712-4732' //Nomor Owner
+global.namebot = 'MIHIRUK DILSHAN MD V2' //Nama Bot
+global.nameown = 'Mihiruk' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['94764497078', 'sandaru', true] //Replace your number with your name
+  ['94761091578', 'Mihiruk', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -104,7 +104,7 @@ global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
 global.titlebot = '🎋 ┊  ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
-global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
+global.logo = 'https://i.ibb.co/nrkBN0t/my-new-edit-jpeg-1.jpghttps://i.ibb.co/PwKc0CX/stock-photo-a-beautiful-welcome-sign-logo-1468861793.jpghttps://i.ibb.co/pfsvQ8j/assalamulaikum-my-new-edit-follow-my-page-jpeg.jpg'
 
 
 
