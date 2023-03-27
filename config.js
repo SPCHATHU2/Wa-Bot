@@ -43,25 +43,25 @@ let wibh = moment.tz('Asia/Karachi').format('HH')
 // if you don't have it, type "-" or leave it alone so that there are credits :v
 global.sig = 'https://instagram.com/itx_ahmad.ali' //Link Instagrammu
 global.sgh = 'https://github.com/xIKRATOSx' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/L2KlicS5u1X30Y5VexgkPF'
+global.sgc = 'https://chat.whatsapp.com/BXbSiyjXP8k4qfy3njaH7M'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '94761091578' //Nomor Danamu
-global.ppulsa = '94761091578' //Nomor SimCard Yang Kamu Pake
+global.pdana = '94766969406' //Nomor Danamu
+global.ppulsa = '94766969406' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '+1 (518) 712-4732' //Nomor Bot
-global.nomorown = '+1 (518) 712-4732' //Nomor Owner
-global.namebot = 'MIHIRUK DILSHAN MD V2' //Nama Bot
+global.nomorbot = '+1 (518) 875-4916' //Nomor Bot
+global.nomorown = '+1 (518) 875-4916' //Nomor Owner
+global.namebot = 'CYBER X SHADOW MD V2' //Nama Bot
 global.nameown = 'Mihiruk' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['94761091578', 'Mihiruk', true] //Replace your number with your name
+  ['94766969406', 'SHADOW', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
